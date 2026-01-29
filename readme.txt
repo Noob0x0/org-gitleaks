@@ -1,0 +1,1 @@
+run : ./org-gitleaks.sh my-org-name
